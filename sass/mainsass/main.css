@@ -514,8 +514,8 @@ body {
 }
 
 .card {
-  -webkit-perspective: 5rem;
-          perspective: 5rem;
+  -webkit-perspective: 1500px;
+          perspective: 1500px;
   position: relative;
   height: 52rem;
 }
